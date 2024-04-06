@@ -12,12 +12,13 @@ Welcome to the Complete UI Libraries for React repository! This repository aims 
 - [Chakra UI](https://chakra-ui.com/) - Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
 - [Ant Design](https://ant.design/) - We provide plenty of UI components to enrich your web applications, and we will improve components experience consistently. We also recommend some great Third-Party Libraries additionally.
 - [React Bootstrap](https://react-bootstrap.netlify.app/) - The most popular front-end framework, rebuilt for React.
-- [OPrime React](https://primereact.org/) - Elevate your web applications with PrimeReact's comprehensive suite of customizable, feature-rich UI components. With PrimeReact, turning your development vision into reality has never been easier.
+- [Prime React](https://primereact.org/) - Elevate your web applications with PrimeReact's comprehensive suite of customizable, feature-rich UI components. With PrimeReact, turning your development vision into reality has never been easier.
 - [NextUI](https://nextui.org/) - NextUI is a UI library for React that helps you build beautiful and accessible user interfaces. Created on top of Tailwind CSS and React Aria.
 - [Semantic UI React](https://react.semantic-ui.com/) - Semantic UI React provides React components while Semantic UI provides themes as CSS stylesheets. Install the React components and choose a theme that suits your needs.
 - [TailwindUI](https://tailwindui.com/) - Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS. The perfect starting point for your next project.
-- [COreUI](https://coreui.io/react/) - CoreUI for React.js is UI Component library written in TypeScript, and ready for your next React.js project. Learn how to include CoreUI for React.js in your project.
+- [CoreUI](https://coreui.io/react/) - CoreUI for React.js is UI Component library written in TypeScript, and ready for your next React.js project. Learn how to include CoreUI for React.js in your project.
 - [React Suite](https://rsuitejs.com/) - A suite of React components, sensible UI design, and a friendly development experience.
+- [Aceternity UI](https://ui.aceternity.com) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
 
 ## How to Contribute
 
