@@ -21,6 +21,7 @@ Welcome to the Complete UI Libraries for React repository! This repository aims 
 - [CoreUI](https://coreui.io/react/) - CoreUI for React.js is UI Component library written in TypeScript, and ready for your next React.js project. Learn how to include CoreUI for React.js in your project.
 - [React Suite](https://rsuitejs.com/) - A suite of React components, sensible UI design, and a friendly development experience.
 - [Aceternity UI](https://ui.aceternity.com) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
+- [syntaxui](https://syntaxui.com/) - Free-to-use UI elements designed for rapid development.
 
 ## How to Contribute
 
