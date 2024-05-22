@@ -22,6 +22,8 @@ Welcome to the Complete UI Libraries for React repository! This repository aims 
 - [React Suite](https://rsuitejs.com/) - A suite of React components, sensible UI design, and a friendly development experience.
 - [Aceternity UI](https://ui.aceternity.com) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
 - [syntaxui](https://syntaxui.com/) - Free-to-use UI elements designed for rapid development.
+- [MagicUI](https://magicui.design/) - 20+ free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
+100% open-source, and customizable.
 
 ## How to Contribute
 
